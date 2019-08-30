@@ -1,0 +1,46 @@
+PODS:
+  - GKNavigationBarViewController (2.3.3)
+  - GKPageScrollView (1.2.8)
+  - Masonry (1.1.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - WMPageController (2.5.2)
+  - YBImageBrowser (3.0.1):
+    - YBImageBrowser/Core (= 3.0.1)
+  - YBImageBrowser/Core (3.0.1):
+    - SDWebImage (~> 5.0.0)
+    - YYImage
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - GKNavigationBarViewController
+  - GKPageScrollView
+  - Masonry
+  - WMPageController
+  - YBImageBrowser
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GKNavigationBarViewController
+    - GKPageScrollView
+    - Masonry
+    - SDWebImage
+    - WMPageController
+    - YBImageBrowser
+    - YYImage
+
+SPEC CHECKSUMS:
+  GKNavigationBarViewController: 034111e6ca42b1fe837955a695dbf81cbfd01c41
+  GKPageScrollView: bcf58cb92863fb3824f768aaef9109de06de7fe9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+  YBImageBrowser: 5cf2441341caadec89e29a964b7a1668cc5ad02a
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: cb0b0c98534d50f976066ca4b54f98e9e4573cf0
+
+COCOAPODS: 1.6.0
